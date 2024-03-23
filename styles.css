@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+}
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#apologyMessage {
+    display: none;
+    margin-top: 20px;
+}
+#apologyButton {
+    background-color: navy;
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+}
+#apologyMessage {
+    font-size: 30px; /* Set font size to 20 pixels */
+}
